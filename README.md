@@ -31,4 +31,13 @@ Users can select topics and difficulty levels and get instant AI-generated quest
 ---
 
 ## 📦 Project Structure
-
+projectx/
+├─ backend/
+│ ├─ server.js
+│ ├─ package.json
+│ ├─ .env
+│ └─ README.md
+├─ frontend/
+│ └─ prototype.html
+├─ .gitignore
+└─ README.md
